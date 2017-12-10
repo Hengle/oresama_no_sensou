@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 78a997c26addd4c468f93d0cbbdfa25b
+timeCreated: 1477634789
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_0"
+    21300002: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_1"
+    21300004: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_2"
+    21300006: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_3"
+    21300008: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_4"
+    21300010: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_5"
+    21300012: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_6"
+    21300014: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_7"
+    21300016: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_8"
+    21300018: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_9"
+    21300020: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_10"
+    21300022: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_11"
+    21300024: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_12"
+    21300026: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_13"
+    21300028: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_14"
+    21300030: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_15"
+    21300032: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_16"
+    21300034: "\u5730\u9762\u3068\u5DDD(115'128)(23'32) ver2_17"
+    21300036: mapChip_0
+    21300038: mapChip_1
+    21300040: mapChip_2
+    21300042: mapChip_3
+    21300044: mapChip_4
+    21300046: mapChip_5
+    21300048: mapChip_6
+    21300050: mapChip_7
+    21300052: mapChip_8
+    21300054: mapChip_9
+    21300056: mapChip_10
+    21300058: mapChip_11
+    21300060: mapChip_12
+    21300062: mapChip_13
+    21300064: mapChip_14
+    21300066: mapChip_15
+    21300068: mapChip_16
+    21300070: mapChip_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mapChip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mapChip_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

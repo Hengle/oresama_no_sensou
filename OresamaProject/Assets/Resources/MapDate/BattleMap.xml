@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="hexagonal" renderorder="right-down" width="5" height="10" tilewidth="23" tileheight="32" hexsidelength="10" staggeraxis="y" staggerindex="odd" nextobjectid="1">
+ <tileset firstgid="1" name="地面と川(116'128)(23'32)" tilewidth="23" tileheight="32" tilecount="20" columns="5">
+  <image source="../Downloads/地面と川(116'128)(23'32).png" width="115" height="128"/>
+ </tileset>
+ <layer name="タイル・レイヤー1" width="5" height="10">
+  <data encoding="csv">
+7,7,7,7,7,
+8,8,8,8,8,
+7,7,7,7,7,
+8,8,8,8,8,
+7,7,7,7,7,
+8,8,8,8,8,
+7,7,7,7,7,
+8,8,8,8,8,
+7,7,7,7,7,
+8,8,8,8,8
+</data>
+ </layer>
+</map>

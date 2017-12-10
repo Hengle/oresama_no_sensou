@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 729ed7a41fda45442bc36ce7d87422c6
+timeCreated: 1481011857
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_0"
+    21300002: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_1"
+    21300004: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_2"
+    21300006: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_3"
+    21300008: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_4"
+    21300010: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_5"
+    21300012: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_6"
+    21300014: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_7"
+    21300016: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_8"
+    21300018: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_9"
+    21300020: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_10"
+    21300022: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_11"
+    21300024: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_12"
+    21300026: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_13"
+    21300028: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_14"
+    21300030: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_15"
+    21300032: "\u5730\u9762\u3068\u5DDD(116'128)(23'32)_16"
+    21300034: maps_0
+    21300036: maps_1
+    21300038: maps_2
+    21300040: maps_3
+    21300042: maps_4
+    21300044: maps_5
+    21300046: maps_6
+    21300048: maps_7
+    21300050: maps_8
+    21300052: maps_9
+    21300054: maps_10
+    21300056: maps_11
+    21300058: maps_12
+    21300060: maps_13
+    21300062: maps_14
+    21300064: maps_15
+    21300066: maps_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: maps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: maps_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
